@@ -1,0 +1,28 @@
+.CatDisplay-div {
+  height: 100vh;
+  /* background: black; */
+  min-width: 35vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+#discover-btn-div {
+  height: 8vh;
+}
+
+h1 {
+  margin: 1rem;
+}
+
+img {
+  height: 50vh;
+}
+
+.attributes-div {
+  display: flex;
+  gap: 1rem;
+}
