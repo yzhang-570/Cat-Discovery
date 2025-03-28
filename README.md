@@ -43,6 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![Cat_API](https://github.com/user-attachments/assets/fd6368f9-c3f6-4a8a-a290-068a840aeb50)
 
 GIF created with ScreenToGIF
 
