@@ -80,7 +80,7 @@ p {
 
 /* Gallery styling */
 .gallery-div {
-  max-width: 100vw;
+  width: 100vw;
   background-color: black;
   text-align: center;
 }
